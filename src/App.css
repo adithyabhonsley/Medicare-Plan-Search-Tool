@@ -1,0 +1,30 @@
+body {
+  background-image: url("/Users/abhonsley00/Desktop/MVP-master/src/chapterlogo.jpeg");
+  background-attachment:scroll;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+#container{
+  margin : 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#details{
+  margin: 100px;
+  margin-top: 50px;
+  text-align: center;
+}
+
+.title{
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+#heading{
+  font-size: 2rem;
+  font-weight: bold;
+}
