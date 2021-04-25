@@ -24,3 +24,12 @@ Hxxxx_xxx_y, where the final "y" group has no trailing zeroes (e.g. "H1234_007_3
 ## Included Files
 data/medicare_plans.txt - Contains basic information about Medicare plans. You'll use this file to search for Medicare Advantage plans.
 
+## Running the Program
+Node and npm should be installed for running the program.
+
+Inside the directory, run the following:
+`<addr>` npm install
+
+Then, run the following to open the web app on your local browser:
+`<addr>` npm run start
+
