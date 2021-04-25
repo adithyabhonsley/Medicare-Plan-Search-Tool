@@ -28,8 +28,8 @@ data/medicare_plans.txt - Contains basic information about Medicare plans. You'l
 Node and npm should be installed for running the program.
 
 Inside the directory, run the following:
-`<addr>` npm install
+`<npm install>`
 
 Then, run the following to open the web app on your local browser:
-`<addr>` npm run start
+`<npm run start>` 
 
