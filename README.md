@@ -1,5 +1,5 @@
 # 🔍 Medicare-Plan-Search-Tool
-Simple website that allows users to search Medicare plans
+Simple web app that allows users to search Medicare plans built using ReactJS and Python
 
 ## Getting Started
 You're free to use whatever libraries, packages, of frameworks you like. We're less interested in which technologies you're familiar with and more with how you utilize them. Here are some popular ones:
